@@ -1,0 +1,1039 @@
+#MIRFlick25K MAP 64bit result:
+avg_map: tensor(0.3937, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 1][time:73.4090][total_loss: 4.6515][I2Tmap: 0.3793][T2Imap: 0.4081]
+avg_map: tensor(0.4476, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 2][time:74.1355][total_loss: 4.1865][I2Tmap: 0.4526][T2Imap: 0.4426]
+avg_map: tensor(0.4543, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 3][time:73.2429][total_loss: 2.9923][I2Tmap: 0.4599][T2Imap: 0.4488]
+avg_map: tensor(0.4907, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 5][time:74.4654][total_loss: 3.1321][I2Tmap: 0.5106][T2Imap: 0.4749]
+avg_map: tensor(0.4928, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 6][time:73.2284][total_loss: 2.2962][I2Tmap: 0.5301][T2Imap: 0.5065]
+avg_map: tensor(0.5183, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 7][time:75.5906][total_loss: 3.4203][I2Tmap: 0.5025][T2Imap: 0.5098]
+avg_map: tensor(0.5190, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 8][time:74.3664][total_loss: 2.3366][I2Tmap: 0.5383][T2Imap: 0.4997]
+avg_map: tensor(0.5401, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 10][time:72.0763][total_loss: 2.2863][I2Tmap: 0.5557][T2Imap: 0.5245]
+avg_map: tensor(0.5471, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 12][time:72.5458][total_loss: 2.5240][I2Tmap: 0.5605][T2Imap: 0.5226]
+vg_map: tensor(0.5556, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 17][time:73.5711][total_loss: 2.2811][I2Tmap: 0.5644][T2Imap: 0.5353]
+avg_map: tensor(0.5570, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 18][time:74.1784][total_loss: 2.8480][I2Tmap: 0.5665][T2Imap: 0.5474]
+avg_map: tensor(0.5582, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 19][time:73.1467][total_loss: 2.4504][I2Tmap: 0.5675][T2Imap: 0.5489]
+avg_map: tensor(0.5666, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 23][time:73.3840][total_loss: 2.8047][I2Tmap: 0.5760][T2Imap: 0.5545]
+avg_map: tensor(0.5691, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 30][time:74.2816][total_loss: 2.1166][I2Tmap: 0.5767][T2Imap: 0.5571]
+avg_map: tensor(0.5721, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 45][time:72.3181][total_loss: 1.8839][I2Tmap: 0.5851][T2Imap: 0.5590]
+avg_map: tensor(0.5724, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 56][time:72.8171][total_loss: 1.8832][I2Tmap: 0.5862][T2Imap: 0.5586]
+########################################
+#NUS-WIDE10.5K MAP 64bit result:
+ | INFO     | model.train_test:train:433 - [itr: 1][time:26.6861][total_loss: 3.6303][I2Tmap: 0.3068][T2Imap: 0.2436]
+avg_map: tensor(0.2752, device='cuda:0')
+avg_map: tensor(0.3437, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 2][time:26.7710][total_loss: 3.0148][I2Tmap: 0.3536][T2Imap: 0.3338]
+avg_map: tensor(0.3806, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 3][time:26.9784][total_loss: 2.2519][I2Tmap: 0.3976][T2Imap: 0.3636]
+| INFO     | model.train_test:train:433 - [itr: 4][time:26.6187][total_loss: 3.1494][I2Tmap: 0.3993][T2Imap: 0.3973]
+avg_map: tensor(0.3983, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 5][time:26.7009][total_loss: 1.8422][I2Tmap: 0.4212][T2Imap: 0.3876]
+avg_map: tensor(0.4044, device='cuda:0')
+avg_map: tensor(0.4100, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 6][time:26.8528][total_loss: 2.6954][I2Tmap: 0.4194][T2Imap: 0.4006]
+avg_map: tensor(0.4390, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 9][time:27.0188][total_loss: 2.5205][I2Tmap: 0.4241][T2Imap: 0.4209]
+avg_map: tensor(0.4599, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 16][time:26.7746][total_loss: 2.3818][I2Tmap: 0.4497][T2Imap: 0.4701]
+avg_map: tensor(0.4689, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 17][time:26.8933][total_loss: 1.8678][I2Tmap: 0.4596][T2Imap: 0.4783]
+avg_map: tensor(0.4762, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 18][time:27.3930][total_loss: 1.5543][I2Tmap: 0.4723][T2Imap: 0.4800]
+avg_map: tensor(0.4813, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 24][time:26.9896][total_loss: 2.1126][I2Tmap: 0.4708][T2Imap: 0.4919]
+avg_map: tensor(0.4924, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 30][time:27.0027][total_loss: 2.9479][I2Tmap: 0.4836][T2Imap: 0.5013]
+avg_map: tensor(0.4963, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 37][time:27.0117][total_loss: 2.7425][I2Tmap: 0.4872][T2Imap: 0.5053]
+avg_map: tensor(0.4979, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 42][time:27.0121][total_loss: 2.0703][I2Tmap: 0.4866][T2Imap: 0.5093]
+avg_map: tensor(0.5023, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 63][time:25.1691][total_loss: 2.1002][I2Tmap: 0.5002][T2Imap: 0.5045]
+#################################
+#MIRFlick25K MAP 32bit result:
+| INFO     | model.train_test:train:433 - [itr: 1][time:172.9084][total_loss: 5.0334][I2Tmap: 0.4021][T2Imap: 0.4304]
+avg_map: tensor(0.4162, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 2][time:71.0130][total_loss: 3.9219][I2Tmap: 0.4428][T2Imap: 0.4260]
+avg_map: tensor(0.4344, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 3][time:71.9610][total_loss: 3.7019][I2Tmap: 0.4912][T2Imap: 0.4868]
+avg_map: tensor(0.4890, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 4][time:72.0185][total_loss: 2.8595][I2Tmap: 0.5079][T2Imap: 0.4948]
+avg_map: tensor(0.5013, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 5][time:72.5792][total_loss: 3.2326][I2Tmap: 0.5188][T2Imap: 0.5092]
+avg_map: tensor(0.5140, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 6][time:70.9279][total_loss: 3.4636][I2Tmap: 0.5088][T2Imap: 0.5019]
+| INFO     | model.train_test:train:433 - [itr: 7][time:71.3830][total_loss: 2.6542][I2Tmap: 0.5344][T2Imap: 0.5328]
+avg_map: tensor(0.5336, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 8][time:71.5435][total_loss: 2.6561][I2Tmap: 0.5386][T2Imap: 0.5313]
+avg_map: tensor(0.5350, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 9][time:71.7883][total_loss: 3.2420][I2Tmap: 0.5431][T2Imap: 0.5379]
+avg_map: tensor(0.5405, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 10][time:72.0893][total_loss: 2.6042][I2Tmap: 0.5370][T2Imap: 0.5346]
+avg_map: tensor(0.5531, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 11][time:72.3952][total_loss: 2.8126][I2Tmap: 0.5551][T2Imap: 0.5511]
+| INFO     | model.train_test:train:433 - [itr: 19][time:72.3149][total_loss: 2.6567][I2Tmap: 0.5650][T2Imap: 0.5524]
+avg_map: tensor(0.5587, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 20][time:71.7467][total_loss: 3.4151][I2Tmap: 0.5568][T2Imap: 0.5492]
+| INFO     | model.train_test:train:433 - [itr: 21][time:71.8891][total_loss: 2.2152][I2Tmap: 0.5654][T2Imap: 0.5565]
+avg_map: tensor(0.5610, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 22][time:72.3786][total_loss: 2.0455][I2Tmap: 0.5700][T2Imap: 0.5531]
+avg_map: tensor(0.5616, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 23][time:71.9667][total_loss: 3.5125][I2Tmap: 0.5733][T2Imap: 0.5559]
+avg_map: tensor(0.5646, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 24][time:72.4635][total_loss: 2.4811][I2Tmap: 0.5726][T2Imap: 0.5436]
+| INFO     | model.train_test:train:433 - [itr: 26][time:72.2423][total_loss: 2.8184][I2Tmap: 0.5749][T2Imap: 0.5550]
+avg_map: tensor(0.5650, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 53][time:71.6595][total_loss: 3.1793][I2Tmap: 0.5794][T2Imap: 0.5550]
+avg_map: tensor(0.5672, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 67][time:72.3702][total_loss: 2.7772][I2Tmap: 0.5822][T2Imap: 0.5553]
+avg_map: tensor(0.5687, device='cuda:0')
+#######################################
+#NUS-WIDE10.5K MAP 32bit result:
+| INFO     | model.train_test:train:433 - [itr: 1][time:26.8164][total_loss: 3.0027][I2Tmap: 0.2604][T2Imap: 0.2261]
+avg_map: tensor(0.2432, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 2][time:26.5869][total_loss: 3.7453][I2Tmap: 0.3593][T2Imap: 0.3829]
+avg_map: tensor(0.3711, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 3][time:26.5366][total_loss: 3.0865][I2Tmap: 0.3509][T2Imap: 0.3818]
+| INFO     | model.train_test:train:433 - [itr: 4][time:26.7321][total_loss: 2.8176][I2Tmap: 0.3749][T2Imap: 0.3842]
+avg_map: tensor(0.3796, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 5][time:27.3217][total_loss: 2.3309][I2Tmap: 0.4070][T2Imap: 0.3993]
+avg_map: tensor(0.4032, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 6][time:26.5168][total_loss: 3.7219][I2Tmap: 0.4240][T2Imap: 0.4299]
+avg_map: tensor(0.4269, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 7][time:26.7964][total_loss: 2.0057][I2Tmap: 0.4134][T2Imap: 0.4120]
+| INFO     | model.train_test:train:433 - [itr: 8][time:26.7534][total_loss: 2.5956][I2Tmap: 0.4512][T2Imap: 0.4556]
+avg_map: tensor(0.4534, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 10][time:27.2333][total_loss: 2.9794][I2Tmap: 0.4567][T2Imap: 0.4776]
+avg_map: tensor(0.4671, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 19][time:26.9179][total_loss: 3.1092][I2Tmap: 0.4822][T2Imap: 0.4993]
+avg_map: tensor(0.4907, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 29][time:25.8506][total_loss: 2.1744][I2Tmap: 0.5021][T2Imap: 0.5022]
+avg_map: tensor(0.5022, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 52][time:25.0833][total_loss: 2.1741][I2Tmap: 0.5118][T2Imap: 0.4971]
+avg_map: tensor(0.5044, device='cuda:0')
+
+#######################################
+#MIRFlick25K MAP 16bit result:
+| INFO     | model.train_test:train:433 - [itr: 1][time:72.1379][total_loss: 4.6816][I2Tmap: 0.4310][T2Imap: 0.4112]
+avg_map: tensor(0.4211, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 2][time:72.1194][total_loss: 3.8583][I2Tmap: 0.4632][T2Imap: 0.4647]
+avg_map: tensor(0.4640, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 3][time:71.4297][total_loss: 4.1810][I2Tmap: 0.4896][T2Imap: 0.5098]
+avg_map: tensor(0.4997, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 4][time:71.8124][total_loss: 3.9154][I2Tmap: 0.4999][T2Imap: 0.5302]
+avg_map: tensor(0.5151, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 5][time:71.2773][total_loss: 3.4961][I2Tmap: 0.5043][T2Imap: 0.5327]
+avg_map: tensor(0.5185, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 6][time:71.7926][total_loss: 3.4585][I2Tmap: 0.5121][T2Imap: 0.5301]
+avg_map: tensor(0.5211, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 7][time:74.8854][total_loss: 3.4142][I2Tmap: 0.5136][T2Imap: 0.5435]
+avg_map: tensor(0.5285, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 10][time:72.1123][total_loss: 2.4807][I2Tmap: 0.5321][T2Imap: 0.5519]
+avg_map: tensor(0.5420, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 12][time:72.6254][total_loss: 2.9624][I2Tmap: 0.5377][T2Imap: 0.5467]
+avg_map: tensor(0.5422, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 22][time:72.0490][total_loss: 2.8614][I2Tmap: 0.5579][T2Imap: 0.5466]
+avg_map: tensor(0.5523, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 28][time:74.6325][total_loss: 2.3269][I2Tmap: 0.5599][T2Imap: 0.5472]
+avg_map: tensor(0.5536, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 29][time:73.4978][total_loss: 4.0657][I2Tmap: 0.5598][T2Imap: 0.5479]
+avg_map: tensor(0.5539, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 30][time:73.4751][total_loss: 3.0355][I2Tmap: 0.5595][T2Imap: 0.5489]
+avg_map: tensor(0.5542, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 47][time:72.4854][total_loss: 3.5877][I2Tmap: 0.5651][T2Imap: 0.5449]
+avg_map: tensor(0.5550, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 72][time:73.3407][total_loss: 2.9883][I2Tmap: 0.5655][T2Imap: 0.5445]
+avg_map: tensor(0.5550, device='cuda:0')
+
+#######################################
+#NUS-WIDE10.5K MAP 16bit result:
+| INFO     | model.train_test:train:433 - [itr: 1][time:29.1009][total_loss: 3.6370][I2Tmap: 0.3313][T2Imap: 0.3866]
+avg_map: tensor(0.3589, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 2][time:29.1348][total_loss: 4.1653][I2Tmap: 0.3748][T2Imap: 0.4068]
+avg_map: tensor(0.3908, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 3][time:28.9973][total_loss: 3.3127]][I2Tmap: 0.4204][T2Imap: 0.4048]
+avg_map: tensor(0.4126, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 4][time:29.0604][total_loss: 2.6508][I2Tmap: 0.4214][T2Imap: 0.3915]
+| INFO     | model.train_test:train:433 - [itr: 5][time:29.1678][total_loss: 3.4296][I2Tmap: 0.4399][T2Imap: 0.4198]
+avg_map: tensor(0.4299, device='cuda:0')
+avg_map: tensor(0.4445, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 7][time:29.2357][total_loss: 2.9759][I2Tmap: 0.4523][T2Imap: 0.4621]
+avg_map: tensor(0.4572, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 8][time:29.1741][total_loss: 3.0041][I2Tmap: 0.4696][T2Imap: 0.4799]
+| INFO     | model.train_test:train:433 - [itr: 12][time:27.3808][total_loss: 3.0290][I2Tmap: 0.4760][T2Imap: 0.4886]
+avg_map: tensor(0.4823, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 25][time:27.6340][total_loss: 2.2216][I2Tmap: 0.5003][T2Imap: 0.5038]
+avg_map: tensor(0.5021, device='cuda:0')
+| INFO     | model.train_test:train:433 - [itr: 33][time:27.6044][total_loss: 3.3613][I2Tmap: 0.5113][T2Imap: 0.5118]
+avg_map: tensor(0.5116, device='cuda:0')
+
+#######################################
+#MIRFlick25K PR-curve 64bit result:
+0
+tensor(0.)
+tensor(0.)
+1
+tensor(0.)
+tensor(0.)
+2
+tensor(0.)
+tensor(0.)
+3
+tensor(0.)
+tensor(0.)
+4
+tensor(0.)
+tensor(0.)
+5
+tensor(0.)
+tensor(0.)
+6
+tensor(0.)
+tensor(0.)
+7
+tensor(0.)
+tensor(0.)
+8
+tensor(0.)
+tensor(0.)
+9
+tensor(0.)
+tensor(0.)
+10
+tensor(0.)
+tensor(0.)
+11
+tensor(0.)
+tensor(0.)
+12
+tensor(0.)
+tensor(0.)
+13
+tensor(0.)
+tensor(0.)
+14
+tensor(0.8750)
+tensor(0.0002)
+15
+tensor(0.9009)
+tensor(0.0061)
+16
+tensor(0.8850)
+tensor(0.0281)
+17
+tensor(0.8864)
+tensor(0.0647)
+18
+tensor(0.8691)
+tensor(0.0840)
+19
+tensor(0.8181)
+tensor(0.1056)
+20
+tensor(0.7799)
+tensor(0.1476)
+21
+tensor(0.7221)
+tensor(0.2294)
+22
+tensor(0.6548)
+tensor(0.3551)
+23
+tensor(0.5812)
+tensor(0.5108)
+24
+tensor(0.4987)
+tensor(0.6753)
+25
+tensor(0.4159)
+tensor(0.8244)
+26
+tensor(0.3519)
+tensor(0.9287)
+27
+tensor(0.3214)
+tensor(0.9797)
+28
+tensor(0.3116)
+tensor(0.9963)
+29
+tensor(0.3098)
+tensor(0.9996)
+30
+tensor(0.3097)
+tensor(1.0000)
+31
+tensor(0.3097)
+tensor(1.0000)
+32
+tensor(0.3097)
+tensor(1.)
+33
+tensor(0.3097)
+tensor(1.)
+34
+tensor(0.3097)
+tensor(1.)
+35
+tensor(0.3097)
+tensor(1.)
+36
+tensor(0.3097)
+tensor(1.)
+37
+tensor(0.3097)
+tensor(1.)
+38
+tensor(0.3097)
+tensor(1.)
+39
+tensor(0.3097)
+tensor(1.)
+40
+tensor(0.3097)
+tensor(1.)
+41
+tensor(0.3097)
+tensor(1.)
+42
+tensor(0.3097)
+tensor(1.)
+43
+tensor(0.3097)
+tensor(1.)
+44
+tensor(0.3097)
+tensor(1.)
+45
+tensor(0.3097)
+tensor(1.)
+46
+tensor(0.3097)
+tensor(1.)
+47
+tensor(0.3097)
+tensor(1.)
+48
+tensor(0.3097)
+tensor(1.)
+49
+tensor(0.3097)
+tensor(1.)
+50
+tensor(0.3097)
+tensor(1.)
+51
+tensor(0.3097)
+tensor(1.)
+52
+tensor(0.3097)
+tensor(1.)
+53
+tensor(0.3097)
+tensor(1.)
+54
+tensor(0.3097)
+tensor(1.)
+55
+tensor(0.3097)
+tensor(1.)
+56
+tensor(0.3097)
+tensor(1.)
+57
+tensor(0.3097)
+tensor(1.)
+58
+tensor(0.3097)
+tensor(1.)
+59
+tensor(0.3097)
+tensor(1.)
+60
+tensor(0.3097)
+tensor(1.)
+61
+tensor(0.3097)
+tensor(1.)
+62
+tensor(0.3097)
+tensor(1.)
+63
+tensor(0.3097)
+tensor(1.)
+64
+tensor(0.3097)
+tensor(1.)
+0
+tensor(0.)
+tensor(0.)
+1
+tensor(0.)
+tensor(0.)
+2
+tensor(0.)
+tensor(0.)
+3
+tensor(0.)
+tensor(0.)
+4
+tensor(0.)
+tensor(0.)
+5
+tensor(0.)
+tensor(0.)
+6
+tensor(0.)
+tensor(0.)
+7
+tensor(0.)
+tensor(0.)
+8
+tensor(0.)
+tensor(0.)
+9
+tensor(0.)
+tensor(0.)
+10
+tensor(0.)
+tensor(0.)
+11
+tensor(0.)
+tensor(0.)
+12
+tensor(0.)
+tensor(0.)
+13
+tensor(0.)
+tensor(0.)
+14
+tensor(0.9960)
+tensor(0.0005)
+15
+tensor(0.8752)
+tensor(0.0075)
+16
+tensor(0.8583)
+tensor(0.0371)
+17
+tensor(0.8699)
+tensor(0.0854)
+18
+tensor(0.8419)
+tensor(0.0974)
+19
+tensor(0.7983)
+tensor(0.1150)
+20
+tensor(0.7630)
+tensor(0.1515)
+21
+tensor(0.7082)
+tensor(0.2329)
+22
+tensor(0.6537)
+tensor(0.3629)
+23
+tensor(0.5866)
+tensor(0.5233)
+24
+tensor(0.5024)
+tensor(0.6878)
+25
+tensor(0.4168)
+tensor(0.8334)
+26
+tensor(0.3538)
+tensor(0.9334)
+27
+tensor(0.3223)
+tensor(0.9818)
+28
+tensor(0.3117)
+tensor(0.9968)
+29
+tensor(0.3098)
+tensor(0.9996)
+30
+tensor(0.3097)
+tensor(1.0000)
+31
+tensor(0.3097)
+tensor(1.)
+32
+tensor(0.3097)
+tensor(1.)
+33
+tensor(0.3097)
+tensor(1.)
+34
+tensor(0.3097)
+tensor(1.)
+35
+tensor(0.3097)
+tensor(1.)
+36
+tensor(0.3097)
+tensor(1.)
+37
+tensor(0.3097)
+tensor(1.)
+38
+tensor(0.3097)
+tensor(1.)
+39
+tensor(0.3097)
+tensor(1.)
+40
+tensor(0.3097)
+tensor(1.)
+41
+tensor(0.3097)
+tensor(1.)
+42
+tensor(0.3097)
+tensor(1.)
+43
+tensor(0.3097)
+tensor(1.)
+44
+tensor(0.3097)
+tensor(1.)
+45
+tensor(0.3097)
+tensor(1.)
+46
+tensor(0.3097)
+tensor(1.)
+47
+tensor(0.3097)
+tensor(1.)
+48
+tensor(0.3097)
+tensor(1.)
+49
+tensor(0.3097)
+tensor(1.)
+50
+tensor(0.3097)
+tensor(1.)
+51
+tensor(0.3097)
+tensor(1.)
+52
+tensor(0.3097)
+tensor(1.)
+53
+tensor(0.3097)
+tensor(1.)
+54
+tensor(0.3097)
+tensor(1.)
+55
+tensor(0.3097)
+tensor(1.)
+56
+tensor(0.3097)
+tensor(1.)
+57
+tensor(0.3097)
+tensor(1.)
+58
+tensor(0.3097)
+tensor(1.)
+59
+tensor(0.3097)
+tensor(1.)
+60
+tensor(0.3097)
+tensor(1.)
+61
+tensor(0.3097)
+tensor(1.)
+62
+tensor(0.3097)
+tensor(1.)
+63
+tensor(0.3097)
+tensor(1.)
+64
+tensor(0.3097)
+tensor(1.)
+
+#######################################
+#NUS-WIDE10.5K PR-curve 64bit result:
+0
+tensor(0.)
+tensor(0.)
+1
+tensor(0.)
+tensor(0.)
+2
+tensor(0.)
+tensor(0.)
+3
+tensor(0.)
+tensor(0.)
+4
+tensor(0.)
+tensor(0.)
+5
+tensor(0.)
+tensor(0.)
+6
+tensor(0.)
+tensor(0.)
+7
+tensor(0.)
+tensor(0.)
+8
+tensor(0.)
+tensor(0.)
+9
+tensor(0.)
+tensor(0.)
+10
+tensor(0.)
+tensor(0.)
+11
+tensor(0.)
+tensor(0.)
+12
+tensor(0.)
+tensor(0.)
+13
+tensor(1.)
+tensor(0.0008)
+14
+tensor(0.9304)
+tensor(0.0252)
+15
+tensor(0.8951)
+tensor(0.6145)
+16
+tensor(0.8151)
+tensor(0.5299)
+17
+tensor(0.6927)
+tensor(0.4462)
+18
+tensor(0.5837)
+tensor(0.3903)
+19
+tensor(0.4154)
+tensor(0.3231)
+20
+tensor(0.4866)
+tensor(0.4910)
+21
+tensor(0.4092)
+tensor(0.5739)
+22
+tensor(0.3375)
+tensor(0.6840)
+23
+tensor(0.2767)
+tensor(0.7769)
+24
+tensor(0.2142)
+tensor(0.8633)
+25
+tensor(0.1889)
+tensor(0.9183)
+26
+tensor(0.1666)
+tensor(0.9641)
+27
+tensor(0.1609)
+tensor(0.9832)
+28
+tensor(0.1575)
+tensor(0.9953)
+29
+tensor(0.1566)
+tensor(0.9992)
+30
+tensor(0.1564)
+tensor(0.9996)
+31
+tensor(0.1564)
+tensor(0.9999)
+32
+tensor(0.1564)
+tensor(1.)
+33
+tensor(0.1564)
+tensor(1.)
+34
+tensor(0.1564)
+tensor(1.)
+35
+tensor(0.1564)
+tensor(1.)
+36
+tensor(0.1564)
+tensor(1.)
+37
+tensor(0.1564)
+tensor(1.)
+38
+tensor(0.1564)
+tensor(1.)
+39
+tensor(0.1564)
+tensor(1.)
+40
+tensor(0.1564)
+tensor(1.)
+41
+tensor(0.1564)
+tensor(1.)
+42
+tensor(0.1564)
+tensor(1.)
+43
+tensor(0.1564)
+tensor(1.)
+44
+tensor(0.1564)
+tensor(1.)
+45
+tensor(0.1564)
+tensor(1.)
+46
+tensor(0.1564)
+tensor(1.)
+47
+tensor(0.1564)
+tensor(1.)
+48
+tensor(0.1564)
+tensor(1.)
+49
+tensor(0.1564)
+tensor(1.)
+50
+tensor(0.1564)
+tensor(1.)
+51
+tensor(0.1564)
+tensor(1.)
+52
+tensor(0.1564)
+tensor(1.)
+53
+tensor(0.1564)
+tensor(1.)
+54
+tensor(0.1564)
+tensor(1.)
+55
+tensor(0.1564)
+tensor(1.)
+56
+tensor(0.1564)
+tensor(1.)
+57
+tensor(0.1564)
+tensor(1.)
+58
+tensor(0.1564)
+tensor(1.)
+59
+tensor(0.1564)
+tensor(1.)
+60
+tensor(0.1564)
+tensor(1.)
+61
+tensor(0.1564)
+tensor(1.)
+62
+tensor(0.1564)
+tensor(1.)
+63
+tensor(0.1564)
+tensor(1.)
+64
+tensor(0.1564)
+tensor(1.)
+0
+tensor(0.)
+tensor(0.)
+1
+tensor(0.)
+tensor(0.)
+2
+tensor(0.)
+tensor(0.)
+3
+tensor(0.)
+tensor(0.)
+4
+tensor(0.)
+tensor(0.)
+5
+tensor(0.)
+tensor(0.)
+6
+tensor(0.)
+tensor(0.)
+7
+tensor(0.)
+tensor(0.)
+8
+tensor(0.)
+tensor(0.)
+9
+tensor(0.)
+tensor(0.)
+10
+tensor(0.)
+tensor(0.)
+11
+tensor(0.)
+tensor(0.)
+12
+tensor(0.)
+tensor(0.)
+13
+tensor(1.)
+tensor(0.0004)
+14
+tensor(0.8579)
+tensor(0.1234)
+15
+tensor(0.8864)
+tensor(0.4616)
+16
+tensor(0.7986)
+tensor(0.4544)
+17
+tensor(0.6115)
+tensor(0.3251)
+18
+tensor(0.5306)
+tensor(0.3329)
+19
+tensor(0.4616)
+tensor(0.3663)
+20
+tensor(0.5001)
+tensor(0.4525)
+21
+tensor(0.4464)
+tensor(0.5533)
+22
+tensor(0.3715)
+tensor(0.6715)
+23
+tensor(0.3238)
+tensor(0.7750)
+24
+tensor(0.2836)
+tensor(0.8621)
+25
+tensor(0.2415)
+tensor(0.9177)
+26
+tensor(0.1760)
+tensor(0.9629)
+27
+tensor(0.1632)
+tensor(0.9813)
+28
+tensor(0.1578)
+tensor(0.9939)
+29
+tensor(0.1565)
+tensor(0.9989)
+30
+tensor(0.1564)
+tensor(0.9994)
+31
+tensor(0.1564)
+tensor(0.9997)
+32
+tensor(0.1564)
+tensor(1.)
+33
+tensor(0.1564)
+tensor(1.)
+34
+tensor(0.1564)
+tensor(1.)
+35
+tensor(0.1564)
+tensor(1.)
+36
+tensor(0.1564)
+tensor(1.)
+37
+tensor(0.1564)
+tensor(1.)
+38
+tensor(0.1564)
+tensor(1.)
+39
+tensor(0.1564)
+tensor(1.)
+40
+tensor(0.1564)
+tensor(1.)
+41
+tensor(0.1564)
+tensor(1.)
+42
+tensor(0.1564)
+tensor(1.)
+43
+tensor(0.1564)
+tensor(1.)
+44
+tensor(0.1564)
+tensor(1.)
+45
+tensor(0.1564)
+tensor(1.)
+46
+tensor(0.1564)
+tensor(1.)
+47
+tensor(0.1564)
+tensor(1.)
+48
+tensor(0.1564)
+tensor(1.)
+49
+tensor(0.1564)
+tensor(1.)
+50
+tensor(0.1564)
+tensor(1.)
+51
+tensor(0.1564)
+tensor(1.)
+52
+tensor(0.1564)
+tensor(1.)
+53
+tensor(0.1564)
+tensor(1.)
+54
+tensor(0.1564)
+tensor(1.)
+55
+tensor(0.1564)
+tensor(1.)
+56
+tensor(0.1564)
+tensor(1.)
+57
+tensor(0.1564)
+tensor(1.)
+58
+tensor(0.1564)
+tensor(1.)
+59
+tensor(0.1564)
+tensor(1.)
+60
+tensor(0.1564)
+tensor(1.)
+61
+tensor(0.1564)
+tensor(1.)
+62
+tensor(0.1564)
+tensor(1.)
+63
+tensor(0.1564)
+tensor(1.)
+64
+tensor(0.1564)
+tensor(1.)
+#######################################
+#MIRFlick25K topk-precision-curve 64bit result:
+10
+0.8243000000000023
+0.7590500000000014
+100
+0.8116300000000094
+0.7636050000000066
+200
+0.7986925000000008
+0.7580625000000006
+300
+0.7882833333333394
+0.7529083333333404
+400
+0.7800799999999988
+0.7484912500000002
+500
+0.7714539999999992
+0.7440960000000024
+600
+0.7631116666666673
+0.73919
+700
+0.7555721428571417
+0.7345042857142858
+800
+0.7485468749999998
+0.7298956250000002
+900
+0.7412322222222217
+0.7250377777777783
+1000
+0.7343395000000014
+0.7194135000000011
+
+#######################################
+#NUS-WIDE10.5K topk-precision-curve 64bit result:
+10
+0.4115999999999979
+0.5083500000000016
+100
+0.4101099999999951
+0.518020000000002
+200
+0.4428950000000024
+0.522477500000003
+300
+0.4538399999999975
+0.5247650000000033
+400
+0.4576900000000032
+0.525232500000001
+500
+0.45807399999999737
+0.5238120000000039
+600
+0.4560150000000024
+0.517050833333339
+700
+0.454312142857141
+0.5102628571428595
+800
+0.4553150000000027
+0.5047474999999969
+900
+0.4559827777777773
+0.5005600000000032
+1000
+0.45432350000000266
+0.4973
